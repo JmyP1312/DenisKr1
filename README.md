@@ -18,4 +18,4 @@
 
 ## Ссылка на рабочий сайт
 
-[Посмотреть сайт на GitHub Pages](https://Jmyp1312.github.io/front-kr1/index.html)
+[Посмотреть сайт на GitHub Pages](https://Jmyp1312.github.io/DenisKr1/index.html)
